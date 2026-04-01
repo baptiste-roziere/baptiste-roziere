@@ -66,6 +66,7 @@ Selected public repositories:
 
 - Work email: [baptiste@mistral.ai](mailto:baptiste@mistral.ai)
 - Personal email: [baptisteroziere@gmail.com](mailto:baptisteroziere@gmail.com)
+- - Personal email: [baptis-teroziere@outlook.com](mailto:baptis-teroziere@outlook.com)
 - LinkedIn: [baptisteroziere](https://fr.linkedin.com/in/baptisteroziere)
 
 ## Note
